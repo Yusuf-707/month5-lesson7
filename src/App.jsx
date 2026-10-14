@@ -19,9 +19,9 @@ function App() {
   }, [])
   return (
     <>
-      <CreateTask />
+      <CreateTask getTasks={getTasks} />
       <h1>Задачи</h1>
-      <Tasks tasks={task} />
+      <Tasks tasks={task} getTasks={getTasks} />
     </>
   )
 }

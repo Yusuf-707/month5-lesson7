@@ -1,10 +1,12 @@
 {
-    "tasks": [
-        {
-            "id": "1",
-            "text": "Hello",
-            "status": "true",
-            "data": "11.02.2002"
-        }
-    ]
+  "tasks": [
+    {
+      "text": "cxvdfdxczxcz",
+      "status": "false",
+      "date": "2026-10-22",
+      "category": "Учёба",
+      "id": "qTQNokqp6yg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
